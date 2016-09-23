@@ -1,0 +1,8 @@
+
+forwardslash.forwardslash_controller_helloWorld:
+  path: '/forwardslash/hello/world'
+  defaults:
+    _controller: '\Drupal\forwardslash\Controller\ForwardslashController::helloWorld'
+    _title: 'forwardslash'
+  requirements:
+    _permission: 'access content'
