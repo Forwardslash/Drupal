@@ -1,0 +1,14 @@
+{
+  "name": "drupal/forwardslash",
+  "type": "drupal-module",
+  "description": "Example of a custom Drupal module built by Forwardslash Development Inc.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/forwardslash",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/forwardslash",
+    "source": "http://cgit.drupalcode.org/forwardslash"
+  },
+  "require": { }
+}

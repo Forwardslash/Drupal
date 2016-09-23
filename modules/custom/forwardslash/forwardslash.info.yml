@@ -1,0 +1,5 @@
+name: forwardslash
+type: module
+description: Example of a custom Drupal module built by Forwardslash Development Inc.
+core: 8.x
+package: Custom
