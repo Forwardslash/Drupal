@@ -1,2 +1,2 @@
 # Drupal
-Forwardslash repository of Drupal development
+Forwardslash repository of Drupal development examples
